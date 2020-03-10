@@ -1,0 +1,29 @@
+{
+  "name": "nexmo-verify",
+  "version": "0.0.1",
+  "description": "Nexmo Verify API Example",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nexmo": "^2.6.0"
+  },
+  "engines": {
+    "node": "8.1.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/nexmo-verify"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "nexmo",
+    "verify",
+    "2FA"
+  ]
+}
